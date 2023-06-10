@@ -1,4 +1,4 @@
-package com.leonardo.customer;
+package com.leonardo.fraud.customer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

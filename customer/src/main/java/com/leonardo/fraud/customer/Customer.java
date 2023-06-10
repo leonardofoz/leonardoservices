@@ -1,4 +1,4 @@
-package com.leonardo.customer;
+package com.leonardo.fraud.customer;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
